@@ -10,3 +10,6 @@ brew_cask_install visual-studio-code
 brew_install neovim
 brew_install ripgrep  # live grep (Telescope)
 brew_install fd       # file finder (Telescope)
+
+# Docker
+brew_cask_install docker
