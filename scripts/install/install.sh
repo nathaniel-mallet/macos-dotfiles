@@ -20,3 +20,4 @@ for dir in "${dirs[@]}"; do
 done
 
 source "$SCRIPT_DIR/dev-tools.sh"
+source "$SCRIPT_DIR/python.sh"
